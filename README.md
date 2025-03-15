@@ -141,7 +141,7 @@ curl -X GET http://127.0.0.1:5000/images/list \
 
 ---
 
-## Deployment (Optional)
+## Deployment
 
 ### **Backend Deployment (Render / AWS EC2 / Heroku)**
 1. Deploy the backend to **Render / Heroku / AWS EC2**.
@@ -164,5 +164,5 @@ This project is **MIT Licensed**.
 ---
 
 ## Author
-Developed by **[Your Name]**
+Developed by **Junit Surani**
 
